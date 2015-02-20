@@ -1,0 +1,32 @@
+<Alloy>
+	<Window id="window1"> 
+	<View id="view_slider_container"> 
+		<ScrollableView id="sview_slider"> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic1.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic2.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic3.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic4.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic5.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic6.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic7.png'></ImageView>
+			</View> 
+			<View class="img_slider">
+				<ImageView image='/images/img_test/pic8.png'></ImageView>
+			</View>  
+		</ScrollableView> 
+	</View> 
+</Window>
+</Alloy>

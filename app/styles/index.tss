@@ -1,0 +1,5 @@
+"#sview_slider": {
+	height:Titanium.UI.SIZE,
+	width:Titanium.UI.FILL,
+	bottom:"80dp"
+}
